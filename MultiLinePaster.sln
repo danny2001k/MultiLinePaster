@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLinePaster", "MultiLinePaster\MultiLinePaster.csproj", "{9486619B-3D7A-4B08-BBBC-3F9B6BB816A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9486619B-3D7A-4B08-BBBC-3F9B6BB816A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9486619B-3D7A-4B08-BBBC-3F9B6BB816A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9486619B-3D7A-4B08-BBBC-3F9B6BB816A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9486619B-3D7A-4B08-BBBC-3F9B6BB816A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FE772D-225A-43BF-AE9A-6FDA3E6A913B}
+	EndGlobalSection
+EndGlobal
